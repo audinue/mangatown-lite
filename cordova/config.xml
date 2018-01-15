@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="audinue.mangatown" version="0.1.0">
+  <name>Mangatown Lite</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="audinue@gmail.com">
+    audinue
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
